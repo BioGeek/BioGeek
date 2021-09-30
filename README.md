@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=biogeek&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/BioGeek/BioGeek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biogeek&hide=java,css,makefile" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biogeek&hide=java,css,makefile,html" />
 </a>

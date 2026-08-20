@@ -1,23 +1,18 @@
 ### Hi there 👋
 
-<!--
-**BioGeek/BioGeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Jeroen Van Goey**, a Staff Research Engineer and BioAI Lead at
+[InstaDeep](https://www.instadeep.com/), based in Cape Town. I build generative
+models for biology and take them from research to production.
 
-Here are some ideas to get you started:
+- 🔭 **Working on** *de novo* peptide sequencing and proteomics foundation models ([InstaNovo](https://github.com/instadeepai/InstaNovo))
+- 🧬 **Published** in *Nature Machine Intelligence* ([InstaNovo](https://doi.org/10.1038/s42256-025-01019-5)) and *Nature Communications* ([InstaNovo-P](https://doi.org/10.1038/s41467-026-75138-x))
+- 📚 **Maintain** [Awesome *De Novo* Peptide Sequencing](https://jeroen.vangoey.be/awesome_de_novo_peptide_sequencing/), an interactive map of the field
+- 🌱 **Learning** high-throughput reinforcement learning in JAX, and squeezing a modern ML stack onto an [end-of-life Jetson Nano](https://jeroen.vangoey.be/projects/self-driving-rc-car.html)
+- 💬 **Ask me about** scientific ML, proteomics, edge ML, or leading BioAI teams
+- ⚡ **Fun fact:** I turned my  [grandfather's chess studies into playable boards](https://schaakstudiespinsels2.be/nl/), and shoot [photography](https://jeroen.vangoey.be/photography) on the side
+- 📫 **More at** [jeroen.vangoey.be](https://jeroen.vangoey.be)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href="https://github.com/BioGeek/BioGeek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=biogeek&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/BioGeek/BioGeek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biogeek&hide=java,css,makefile,html" />
-</a>
+[![Website](https://img.shields.io/badge/Website-jeroen.vangoey.be-0b5e54?logoColor=white)](https://jeroen.vangoey.be)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeroenvangoey-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeroenvangoey)
+[![Google Scholar](https://img.shields.io/badge/Scholar-QinE3gcAAAAJ-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=QinE3gcAAAAJ)
+[![Bluesky](https://img.shields.io/badge/Bluesky-jeroen.vangoey.be-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/jeroen.vangoey.be)
